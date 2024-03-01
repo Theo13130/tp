@@ -1,12 +1,8 @@
-import React, { useState } from 'react';
 import DashboardComposants from "./DashboardComposants";
+import { useTheme } from "../contexts/ThemeContext";
 
 export default function Dashboard() {
-    const [isLightTheme, setIsLightTheme] = useState(false);
-
-    const handleToggleTheme = () => {
-        setIsLightTheme(prevTheme => !prevTheme);
-    };
+    const { isLightTheme, handleToggleTheme} = useTheme();
    
     return (
         <section className="followers-section">

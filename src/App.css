@@ -15,10 +15,6 @@ body {
   font-weight: 400;
 }
 
-body.body-light {
-  background: hsl(231, 17%, 84%);
-
-}
 
 .up {
   color: hsl(163, 72%, 41%);
