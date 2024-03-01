@@ -1,0 +1,193 @@
+[
+  {
+    "totalFollowers": 23004,
+    "dashboard": [
+      {
+        "user": "@nathanf",
+        "followers": 1987,
+        "channel": "facebook",
+        "follows": {
+          "today": 12,
+          "lastWeek": 32,
+          "lastMonth": 102
+        }
+      },
+      {
+        "user": "@nathanf",
+        "followers": 1044,
+        "channel": "twitter",
+        "follows": {
+          "today": 99,
+          "lastWeek": 128,
+          "lastMonth": 495
+        }
+      },
+      {
+        "user": "@realnathanf",
+        "followers": 11000,
+        "channel": "instagram",
+        "follows": {
+          "today": 1099,
+          "lastWeek": 2445,
+          "lastMonth": 3986
+        }
+      },
+      {
+        "user": "Nathan F.",
+        "followers": 8239,
+        "channel": "youtube",
+        "follows": {
+          "today": -144,
+          "lastWeek": 275,
+          "lastMonth": 389
+        }
+      }
+    ],
+    "overview": [
+      {
+        "title": "Page Views",
+        "channel": "facebook",
+        "statistics": {
+          "today": {
+            "data": 87,
+            "pnl": 3
+          },
+          "lastWeek": {
+            "data": 139,
+            "pnl": 7
+          },
+          "lastMonth": {
+            "data": 394,
+            "pnl": 13
+          }
+        }
+      },
+      {
+        "title": "Likes",
+        "channel": "facebook",
+        "statistics": {
+          "today": {
+            "data": 52,
+            "pnl": 3
+          },
+          "lastWeek": {
+            "data": -11,
+            "pnl": -1
+          },
+          "lastMonth": {
+            "data": 394,
+            "pnl": 13
+          }
+        }
+      },
+      {
+        "title": "Likes",
+        "channel": "instagram",
+        "statistics": {
+          "today": {
+            "data": 5462,
+            "pnl": 2257
+          },
+          "lastWeek": {
+            "data": 7896,
+            "pnl": 13
+          },
+          "lastMonth": {
+            "data": 10007,
+            "pnl": 189
+          }
+        }
+      },
+      {
+        "title": "Profile Views",
+        "channel": "instagram",
+        "statistics": {
+          "today": {
+            "data": 52000,
+            "pnl": 1375
+          },
+          "lastWeek": {
+            "data": 29801,
+            "pnl": 167
+          },
+          "lastMonth": {
+            "data": 198786,
+            "pnl": 1293
+          }
+        }
+      },
+      {
+        "title": "Retweets",
+        "channel": "twitter",
+        "statistics": {
+          "today": {
+            "data": 117,
+            "pnl": 303
+          },
+          "lastWeek": {
+            "data": 276,
+            "pnl": 198
+          },
+          "lastMonth": {
+            "data": 1387,
+            "pnl": 490
+          }
+        }
+      },
+      {
+        "title": "Likes",
+        "channel": "twitter",
+        "statistics": {
+          "today": {
+            "data": 507,
+            "pnl": 553
+          },
+          "lastWeek": {
+            "data": 1876,
+            "pnl": 398
+          },
+          "lastMonth": {
+            "data": 8766,
+            "pnl": 890
+          }
+        }
+      },
+      {
+        "title": "Likes",
+        "channel": "youtube",
+        "statistics": {
+          "today": {
+            "data": 107,
+            "pnl": -19
+          },
+          "lastWeek": {
+            "data": 209,
+            "pnl": 76
+          },
+          "lastMonth": {
+            "data": -1689,
+            "pnl": -89
+          }
+        }
+      },
+      {
+        "title": "Total Views",
+        "channel": "facebook",
+        "statistics": {
+          "today": {
+            "data": 1407,
+            "pnl": -12
+          },
+          "lastWeek": {
+            "data": 3897,
+            "pnl": 3
+          },
+          "lastMonth": {
+            "data": 8767,
+            "pnl": -1
+          }
+        }
+      }
+    ]
+  }
+]
